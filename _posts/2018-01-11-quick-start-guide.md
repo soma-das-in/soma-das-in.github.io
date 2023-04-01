@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog 1"
+title:  "Let's test spoilers"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg

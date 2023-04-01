@@ -18,7 +18,3 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
 end
-
-gem "rexml", "~> 3.2"
-
-gem "webrick", "~> 1.8"
