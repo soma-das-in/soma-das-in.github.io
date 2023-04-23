@@ -52,6 +52,7 @@ ga('send', 'pageview');
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
     <!-- End Logo -->
+   
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -94,12 +95,12 @@ ga('send', 'pageview');
 
 <!-- Site Title
 ================================================== -->
-<div class="mainheading">
+<!-- <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
         {{ site.description }}
     </p>
-</div>
+</div> -->
 
 <!-- Content
 ================================================== -->
@@ -155,12 +156,13 @@ ga('send', 'pageview');
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">
+            
             </div>
-            <!-- <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
-            </div> -->
+            <div class="col-md-6 col-sm-6 text-center text-lg-right"> 
+                Copyright © {{ site.time | date: "%Y" }} {{ site.title }}    
+        
+            </div>
         </div>
     </div>
 </footer>
