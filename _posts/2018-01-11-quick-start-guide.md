@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's test spoilers"
 author: soma
-categories: [ Deep Learning ]
+categories: [Deep Learning]
 image: assets/images/12.jpg
 # featured: false
 # hidden: true

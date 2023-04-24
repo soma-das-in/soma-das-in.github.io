@@ -2,7 +2,7 @@
 layout: post
 title:  "Deriving Insights from Google Analytics data using Looker Studio"
 author: soma
-categories: [ Data Visualization ]
+categories: [Data Visualization]
 tags: [red, yellow]
 image: assets/images/2022-10-09-google-analytics-looker-studio/Looker-cover.jpg
 description: "Use case of how Google Looker Studio can be used to analyze Google Analytics data to provide insights for propelling business footprint and ROI."
