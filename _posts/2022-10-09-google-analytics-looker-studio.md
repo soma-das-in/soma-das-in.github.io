@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deriving Insights from Google Analytics Data using Looker Studio"
+title:  "Deriving Insights from Google Analytics data using Looker Studio"
 author: soma
 categories: [ Data Visualization ]
 tags: [red, yellow]
@@ -105,7 +105,7 @@ Click on View to have a look at the final dashboard.
 
 ![Dashboard](/assets/images/2022-10-09-google-analytics-looker-studio/Looker_Studio_GA_11.jpg)
 
-As we have seen above, Google Looker Studio provides multiple features for data exploration , visualization, collaboration. The informative reports can be a very useful tool for deriving business insights and decision making.
+As we have seen above, Google Looker Studio provides multiple features for data exploration, visualization and collaboration. The informative reports can be a very useful tool for deriving business insights and decision making.
 
 
 
