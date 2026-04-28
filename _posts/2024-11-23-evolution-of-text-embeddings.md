@@ -3,9 +3,8 @@ layout: post
 title:  "Evolution of Text Embeddings: From Words to Documents"
 author: soma
 categories: [Deep Learning]
-image: assets/images/12.jpg
 tags: [Deep Learning, Natural language Processing, Text embeddings]
-image: assets/images/2024-01-23-evolution-of-text-embeddings/embeddings-cover.jpg
+image: assets/images/2024-11-23-evolution-of-text-embeddings/embeddings-cover.jpg
 description: "Evolution of Text Embeddings: From Words to Documents."
 # featured: false
 # hidden: true
@@ -303,7 +302,6 @@ The evolution of text embeddings reflects the rapid advancement of **Natural Lan
 
 **Focus:** Representing the meaning of individual words based on co-occurrence patterns in large text corpora. These embeddings assign a **single vector to each word** and do **not capture context**.
 
----
 
 ### 2. Sentence-Level Embeddings (Contextual Representations)
 
@@ -311,7 +309,6 @@ The evolution of text embeddings reflects the rapid advancement of **Natural Lan
 
 **Focus:** Capturing **contextual meaning within sentences**, allowing models to better understand relationships between words depending on their usage.
 
----
 
 ### 3. Modern Text / Document Embeddings (API and Cloud-Based)
 
@@ -326,6 +323,5 @@ text-embedding-ada-002, text-embedding-3-small, text-embedding-3-large, Cohere e
 - Document retrieval  
 - Retrieval-Augmented Generation (RAG)
 
----
 
 Overall, embeddings have evolved from **static word vectors → contextual sentence representations → scalable semantic embeddings for entire documents**, forming a foundational component of many modern AI systems.
